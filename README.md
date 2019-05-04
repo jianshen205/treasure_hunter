@@ -1,1 +1,1 @@
-# treasure_hunter
+# Treasure Hunters
